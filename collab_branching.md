@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/7cef06f3-4087-40e0-95c0-f309e0d17731)
 
+![GE](https://github.com/user-attachments/assets/a15436c4-5c13-4676-940b-0832c3bbb925)
+- [Visit TrueSkill.dev](https://trueskill.dev)
 << [Main](./README.md)  <<
 
 # Adding Collaborators, Branching, and Restricting Merges to Main Branch
