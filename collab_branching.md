@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/7cef06f3-4087-40e0-95c0-f309e0d17731)
+
 << [Main](./README.md)  <<
 
 # Adding Collaborators, Branching, and Restricting Merges to Main Branch
