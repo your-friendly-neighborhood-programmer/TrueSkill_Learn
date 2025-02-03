@@ -1,3 +1,5 @@
+- [Main](./README.md)
+
 # Adding Collaborators, Branching, and Restricting Merges to Main Branch
 
 ## Adding Collaborators to a GitHub Repository
