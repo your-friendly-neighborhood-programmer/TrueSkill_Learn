@@ -1,5 +1,11 @@
-- [Main](./README.md)
+<< [Main](./README.md)  <<
+
 # Adding Collaborators, Forking, and Restricting Merges to Main Branch
+- **Adding collaborators** allows multiple users to contribute to your repository.
+- **Forking** enables contributors to make changes without modifying the original repository.
+- **Pull requests** facilitate code review before merging.
+- **Restricting merges to `main`** ensures quality control and collaboration best practices.
+- These steps help maintain a secure, structured, and efficient GitHub workflow.
 
 ## Adding Collaborators to a GitHub Repository
 Collaborators can contribute directly to a private or public repository on GitHub. Follow these steps to add collaborators:
@@ -78,10 +84,5 @@ To ensure only approved changes get merged into the main branch, you can enable 
 4. **Save Changes**
    - Click **Save changes** to enforce the rules.
 
-## Summary
-- **Adding collaborators** allows multiple users to contribute to your repository.
-- **Forking** enables contributors to make changes without modifying the original repository.
-- **Pull requests** facilitate code review before merging.
-- **Restricting merges to `main`** ensures quality control and collaboration best practices.
-- These steps help maintain a secure, structured, and efficient GitHub workflow.
 
+<< [Main](./README.md)  <<

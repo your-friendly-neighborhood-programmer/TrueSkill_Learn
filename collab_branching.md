@@ -1,4 +1,4 @@
-- [Main](./README.md)
+<< [Main](./README.md)  <<
 
 # Adding Collaborators, Branching, and Restricting Merges to Main Branch
 
@@ -72,3 +72,5 @@ To ensure only approved changes get merged into the main branch, you can enable 
    
 4. **Save Changes**
    - Click **Save changes** to enforce the rules.
+
+<< [Main](./README.md)  <<
