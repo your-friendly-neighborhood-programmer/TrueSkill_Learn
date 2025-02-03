@@ -3,67 +3,61 @@
 # Git Advanced
 
 <details>
-<summary>Branching and Merging</summary>
-
-### Creating a New Branch
+<summary>Creating a New Branch</summary>
+This command creates and switches to a new branch.
 ```sh
 git checkout -b new-branch
 ```
-This command creates and switches to a new branch.
+</details>
 
-### Merging Branches
+<details>
+<summary>Merging Branches</summary>
+This command merges `new-branch` into `main`.
 ```sh
 git checkout main
 git merge new-branch
 ```
-This command merges `new-branch` into `main`.
-
 </details>
 
 <details>
-<summary>Rebasing</summary>
-
-### Rebasing a Branch
+<summary>Rebasing a Branch</summary>
+This command rebases `feature-branch` onto `main`.
 ```sh
 git checkout feature-branch
 git rebase main
 ```
-This command rebases `feature-branch` onto `main`.
-
 </details>
 
 <details>
-<summary>Stashing Changes</summary>
-
-### Stashing Uncommitted Changes
+<summary>Stashing Uncommitted Changes</summary>
+This command stashes your uncommitted changes.
 ```sh
 git stash
 ```
-This command stashes your uncommitted changes.
-
-### Applying Stashed Changes
-```sh
-git stash apply
-```
-This command applies the stashed changes.
-
 </details>
 
 <details>
-<summary>Resetting Changes</summary>
+<summary>Applying Stashed Changes</summary>
+This command applies the stashed changes.
+```sh
+git stash apply
+```
+</details>
 
-### Soft Reset
+<details>
+<summary>Soft Reset</summary>
+This command undoes the last commit but keeps the changes staged.
 ```sh
 git reset --soft HEAD~1
 ```
-This command undoes the last commit but keeps the changes staged.
+</details>
 
-### Hard Reset
+<details>
+<summary>Hard Reset</summary>
+This command undoes the last commit and discards all changes.
 ```sh
 git reset --hard HEAD~1
 ```
-This command undoes the last commit and discards all changes.
-
 </details>
 
 << [Main](./README.md)  <<
