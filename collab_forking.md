@@ -1,6 +1,7 @@
-![image](https://github.com/user-attachments/assets/1dacebbf-458a-42b6-8e02-1a2ec075f434)
 
-<< [Main](./README.md)  <<
+![GE](https://github.com/user-attachments/assets/a15436c4-5c13-4676-940b-0832c3bbb925)
+- [Visit TrueSkill.dev](https://trueskill.dev)
+- [<< Back to Main](./README.md)
 
 # Adding Collaborators, Forking, and Restricting Merges to Main Branch
 - **Adding collaborators** allows multiple users to contribute to your repository.
