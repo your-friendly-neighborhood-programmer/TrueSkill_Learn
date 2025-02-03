@@ -70,10 +70,3 @@ To ensure only approved changes get merged into the main branch, you can enable 
    
 4. **Save Changes**
    - Click **Save changes** to enforce the rules.
-
-## Summary
-- **Adding collaborators** allows multiple users to contribute to your repository.
-- **Branching** enables working on separate features without affecting the main codebase.
-- **Pull requests** facilitate code review before merging.
-- **Restricting merges to `main`** ensures quality control and collaboration best practices.
-- These steps help maintain a secure, structured, and efficient GitHub workflow.
