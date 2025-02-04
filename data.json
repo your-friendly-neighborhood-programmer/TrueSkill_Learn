@@ -7,13 +7,13 @@
             "name": "Stitchy Spirit Website",
             "description": "A website I made using HTML and CSS, with Bootstrap, to represent my small business.",
             "link": "https://your-friendly-neighborhood-programmer.github.io/stitchyspirit/stitchyspirit/about.html",
-            "image": "TrueSkill_Learn/images/crochet.png"
+            "image": "./images/crochet.png"
         },
         {
             "name": "Collateral Consequences of Conviction",
             "description": "Analysis & Visualization of Data Exported From the National Inventory of Collateral Consequences of Conviction",
             "link": "https://your-friendly-neighborhood-programmer.github.io/collateral_consequences/collateral_consequences.html",
-            "image": "TrueSkill_Learn/images/header.jpeg"
+            "image": "./images/header.jpeg"
         }
     ],
     "news": [
@@ -43,11 +43,11 @@
     "certificates": [
         {
             "title": "Data Science: Machine Learning",
-            "image": "TrueSkill_Learn/images/mlcert.png"
+            "image": "./images/mlcert.png"
         },
         {
             "title": "HarvardX, CS50P: CS50'x Introduction to Programming with Python",
-            "image": "TrueSkill_Learn/images/PythonCert.png"
+            "image": "./images/PythonCert.png"
         }
     ]
 }
