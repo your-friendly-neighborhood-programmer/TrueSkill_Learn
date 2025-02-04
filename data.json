@@ -1,7 +1,7 @@
 {
     "about": "Hello! I'm super new to all this, but have learned a lot in my short 6 months of experience. I'm passionate about learning and growing as a developer.",
     "metaDescription": "Welcome to my portfolio.",
-    "skills": ["HTML", "CSS", "JavaScript", "React", "Python", "R", "SQL", "Git", "GitHub"],
+    "skills": ["HTML", "CSS", "JavaScript", "Java", "React", "Python", "R", "SQL", "Git", "GitHub"],
     "projects": [
         {
             "name": "Stitchy Spirit Website",
