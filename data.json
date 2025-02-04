@@ -1,0 +1,56 @@
+{
+    "about": "I am a passionate developer with experience in various technologies.",
+    "metaDescription": "Welcome to my portfolio. I am a passionate developer with experience in GitHub and Git.",
+    "skills": ["GitHub", "Git", "Version Control", "Branching", "Merging", "Pull Requests", "GitHub Actions"],
+    "projects": [
+        {
+            "name": "Project One",
+            "description": "A web application built with React.",
+            "link": "#",
+            "image": "project1.png"
+        },
+        {
+            "name": "Project Two",
+            "description": "A mobile app built with React Native.",
+            "link": "#",
+            "image": "project2.png"
+        }
+    ],
+    "news": [
+        "New project launched!",
+        "Check out my latest blog post.",
+        "Portfolio updated with new skills."
+    ],
+    "social": {
+        "linkedin": "https://www.linkedin.com/in/yourprofile",
+        "github": "https://github.com/yourprofile",
+        "email": "your.email@example.com"
+    },
+    "resume": {
+        "education": [
+            {
+                "degree": "Bachelor of Science in Computer Science",
+                "institution": "University Name",
+                "year": "2020"
+            }
+        ],
+        "experience": [
+            {
+                "position": "Software Developer",
+                "company": "Company Name",
+                "duration": "2020 - Present",
+                "description": "Developed web applications using React and Node.js."
+            }
+        ]
+    },
+    "certificates": [
+        {
+            "title": "Certificate One",
+            "image": "certificate1.png"
+        },
+        {
+            "title": "Certificate Two",
+            "image": "certificate2.png"
+        }
+    ]
+}
