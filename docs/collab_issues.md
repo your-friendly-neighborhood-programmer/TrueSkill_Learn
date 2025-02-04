@@ -1,7 +1,7 @@
 
 ![GE](https://github.com/user-attachments/assets/a15436c4-5c13-4676-940b-0832c3bbb925)
 - [Visit TrueSkill.dev](https://trueskill.dev)
-- [<< Back to Main](./README.md)
+- [<< Back to Main](../README.md)
 
 # Collaborating with Issues
 
@@ -24,4 +24,4 @@ Issues are used to track tasks, enhancements, and bugs for your projects.
 - **Labeling Issues**: Use labels to categorize and prioritize issues.
 - **Closing Issues**: Once an issue is resolved, close it by clicking the **Close issue** button.
 
-<< [Main](./README.md)  <<
+<< [Main](../README.md)  <<

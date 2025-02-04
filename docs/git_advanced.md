@@ -1,7 +1,7 @@
 
 ![GE](https://github.com/user-attachments/assets/a15436c4-5c13-4676-940b-0832c3bbb925)
 - [Visit TrueSkill.dev](https://trueskill.dev)
-- [<< Back to Main](./README.md)
+- [<< Back to Main](../README.md)
 # Git Advanced
 
 <details>
@@ -62,4 +62,4 @@ git reset --hard HEAD~1
 ```
 </details>
 
-<< [Main](./README.md)  <<
+<< [Main](../README.md)  <<

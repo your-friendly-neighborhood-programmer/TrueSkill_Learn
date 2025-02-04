@@ -1,7 +1,7 @@
 
 ![GE](https://github.com/user-attachments/assets/a15436c4-5c13-4676-940b-0832c3bbb925)
 - [Visit TrueSkill.dev](https://trueskill.dev)
-- [<< Back to Main](./README.md)
+- [<< Back to Main](../README.md)
 
 # Hosting Static Sites with GitHub Pages
 
@@ -47,4 +47,4 @@ Steps to use Jekyll for generating a static site.
    - Your Jekyll site will be published at `https://<username>.github.io/<repository-name>/`.
 </details>
 
-<< [Main](./README.md)  <<
+<< [Main](../README.md)  <<

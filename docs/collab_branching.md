@@ -1,7 +1,7 @@
 
 ![GE](https://github.com/user-attachments/assets/a15436c4-5c13-4676-940b-0832c3bbb925)
 - [Visit TrueSkill.dev](https://trueskill.dev)
-- [<< Back to Main](./README.md)
+- [<< Back to Main](../README.md)
 
 # Adding Collaborators, Branching, and Restricting Merges to Main Branch
 
@@ -76,4 +76,4 @@ To ensure only approved changes get merged into the main branch, you can enable 
 4. **Save Changes**
    - Click **Save changes** to enforce the rules.
 
-<< [Main](./README.md)  <<
+<< [Main](../README.md)  <<

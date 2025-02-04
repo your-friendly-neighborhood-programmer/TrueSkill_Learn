@@ -1,7 +1,7 @@
 
 ![GE](https://github.com/user-attachments/assets/a15436c4-5c13-4676-940b-0832c3bbb925)
 - [Visit TrueSkill.dev](https://trueskill.dev)
-- [<< Back to Main](./README.md)
+- [<< Back to Main](../README.md)
   
 # Collaborating with Pull Requests
 
@@ -25,4 +25,4 @@ Pull requests let you tell others about changes you've pushed to a branch in a r
 - **Merging**: Once the pull request is approved, click **Merge pull request** to merge the changes into the base branch.
 - **Closing**: If the pull request is not needed, it can be closed without merging.
 
-<< [Main](./README.md)  <<
+<< [Main](../README.md)  <<
