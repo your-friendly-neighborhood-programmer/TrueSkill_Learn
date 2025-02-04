@@ -41,3 +41,18 @@ main {
     color: #f0f0f0; /* Lighter text for better contrast */
     background-color: #2a2a2a; /* Darker background for menu items */
 }
+.card {
+    border-radius: 12px; /* Increased border radius */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Added drop shadow */
+}
+section {
+    background-color: #2a2a2a; /* Background color for sections */
+    border-radius: 8px; /* Border radius for sections */
+    padding: 16px; /* Padding for sections */
+    margin-bottom: 16px; /* Margin between sections */
+}
+section h2 {
+    background-color: #1a1a1a; /* Background color for section titles */
+    border-radius: 8px; /* Border radius for section titles */
+    padding: 8px; /* Padding for section titles */
+}
