@@ -1,19 +1,19 @@
 {
-    "about": "I am a passionate developer with experience in various technologies.",
-    "metaDescription": "Welcome to my portfolio. I am a passionate developer with experience in GitHub and Git.",
-    "skills": ["GitHub", "Git", "Version Control", "Branching", "Merging", "Pull Requests", "GitHub Actions"],
+    "about": "Hello! I'm super new to all this, but have learned a lot in my short 6 months of experience. I'm passionate about learning and growing as a developer.",
+    "metaDescription": "Welcome to my portfolio.",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Python", "R", "SQL", "Git", "GitHub"],
     "projects": [
         {
-            "name": "Project One",
-            "description": "A web application built with React.",
-            "link": "#",
-            "image": "project1.png"
+            "name": "Stitchy Spirit Website",
+            "description": "A website I made using HTML and CSS, with Bootstrap, to represent my small business.",
+            "link": "https://your-friendly-neighborhood-programmer.github.io/stitchyspirit/stitchyspirit/about.html",
+            "image": "TrueSkill_Learn/images/crochet.png"
         },
         {
-            "name": "Project Two",
-            "description": "A mobile app built with React Native.",
-            "link": "#",
-            "image": "project2.png"
+            "name": "Collateral Consequences of Conviction",
+            "description": "Analysis & Visualization of Data Exported From the National Inventory of Collateral Consequences of Conviction",
+            "link": "https://your-friendly-neighborhood-programmer.github.io/collateral_consequences/collateral_consequences.html",
+            "image": "TrueSkill_Learn/images/header.jpeg"
         }
     ],
     "news": [
@@ -22,35 +22,32 @@
         "Portfolio updated with new skills."
     ],
     "social": {
-        "linkedin": "https://www.linkedin.com/in/yourprofile",
-        "github": "https://github.com/yourprofile",
-        "email": "your.email@example.com"
+        "linkedin": "https://www.linkedin.com/in/vgmitchell",
+        "github": "https://github.com/your-friendly-neighborhood-programmer",
+        "email": "victoria@trueskill.dev"
     },
     "resume": {
         "education": [
             {
-                "degree": "Bachelor of Science in Computer Science",
-                "institution": "University Name",
-                "year": "2020"
-            }
-        ],
-        "experience": [
+                "degree": "Bachelor of Science in Applied Psychology",
+                "institution": "University of Phoenix",
+                "year": "2024"
+            },
             {
-                "position": "Software Developer",
-                "company": "Company Name",
-                "duration": "2020 - Present",
-                "description": "Developed web applications using React and Node.js."
+                "degree": "Master of Science in Data Science",
+                "institution": "University of Phoenix",
+                "year": "2026"
             }
         ]
     },
     "certificates": [
         {
-            "title": "Certificate One",
-            "image": "certificate1.png"
+            "title": "Data Science: Machine Learning",
+            "image": "TrueSkill_Learn/images/mlcert.png"
         },
         {
-            "title": "Certificate Two",
-            "image": "certificate2.png"
+            "title": "HarvardX, CS50P: CS50'x Introduction to Programming with Python",
+            "image": "TrueSkill_Learn/images/PythonCert.png"
         }
     ]
 }
