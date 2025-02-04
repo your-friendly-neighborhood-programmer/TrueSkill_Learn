@@ -3,7 +3,7 @@
 - [Visit TrueSkill.dev](https://trueskill.dev)
 - [Visit my Portfolio Site](https://3disturbed.github.io/TrueSkill_Learn/)
 # TrueSkill_Learn
-Welcome to the TrueSkill_Learn repository. This repository is designed to help you learn and master various GitHub collaboration techniques.
+Welcome to [Student Name]'s TrueSkill_Learn repository. This repository is designed to help you learn and master various GitHub collaboration techniques.
 
 ## Contents
 
